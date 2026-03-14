@@ -10,7 +10,3 @@
 
 ## 🚀 DevOps
 * **Herramientas:** Git | GitLab CI/CD
-
-## 📫 Contacto
-
-* 📧 **Email:** [emiliomaciasdosantos@gmail.com](mailto:emiliomaciasdosantos@gmail.com)
